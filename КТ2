@@ -1,0 +1,2 @@
+S<-read.csv("problems_1.xlsx",header=TRUE, sep=",")
+View(S)
